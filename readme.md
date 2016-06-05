@@ -1,6 +1,6 @@
 # Radio Amateur Exam notes
 
-> This is for Singapore's Radio Amateur Exam notes
+> This is for Singapore's Radio Amateur Exam notes. Also refer to [SARTS notes](http://www.sarts.org.sg/rae/studyrae.html).
 
 ## Relevant groups
 
@@ -11,6 +11,7 @@
 ## Notes
 
 - [0 - License](0_license.md)
-- [1 -Frequency](1_frequency.md)
+- [1 - Frequency](1_frequency.md)
+- [2 - Basic electricity](2_basic_electricity.md)
 
 *More coming soon*
