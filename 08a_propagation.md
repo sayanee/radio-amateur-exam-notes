@@ -59,7 +59,7 @@ Low frequencies are so good for world wide communication. Why are they not used 
   - *Sun Spot activity* varies over the years - peaking and dipping (troughing) every 11 years
 
 | ionosphere layer | Position | Description |
-| - | - | - | -
+| --- | --- | --- | ---
 | D | `60km` - `85km` | - Absorbs rather than refracts radio waves <br> - Absorption is inversely proportional to the frequency
 | E | `100km` - `120 km` | - Lowest ionised layer that can usefully be used for ionospheric propagation <br> - Refract (bend) radio waves during daylight hours, virtually disappears at night <br> - Does not normally result in vast distances of communication (100s of miles, not 1000s of miles)
 | F | `140km` - `400km` <br> <br> `150-200 kms` (`F1`) disappears at night| - Height varies from vary rare to non-existent <br> - Ionises very quickly at sunrise to reach a maximum just after midday <br> - decay is so slow that the ionised layer remains present all through the darkness hours <br> - `F2` layer is most important
