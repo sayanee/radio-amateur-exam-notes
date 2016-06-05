@@ -16,7 +16,7 @@ Working with big numbers
 
 | Symbol  | Name | Multiplication by | Amount | Power of 10 |
 | --- | --- | --- |--- |---
-| `p`  | pico | 0.000000000001  | billionth | -12
+| `p`  | pico | 0.000000000001  | trillionth | -12
 | `n`  | nano | 0.000000001  | billionth | -9
 | `µ`  | micro | 0.000001  | millionth | -6
 | `m`  | milli | 0.001  | thousandth | -3
