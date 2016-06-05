@@ -19,7 +19,7 @@
   
 - Tetrode
 
-  ![](img/tetrode.png)
+  ![](img/tetrode.jpg)
   
 - Pentode
 
