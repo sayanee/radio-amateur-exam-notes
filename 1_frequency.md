@@ -23,6 +23,7 @@ Working with big numbers
 | `K`  | kilo | 1,000  | thousand | 3
 | `M`  | mega | 1,000,000  | million | 6
 | `G`  | giga | 1,000,000,000  | billion | 9
+| `T`  | tera | 1,000,000,000,000  | trillion | 12
 
 ## Formula
 
@@ -31,7 +32,7 @@ Working with big numbers
 ## Examples of frequencies
 
 - public electricity supply: `50 Hz`
-- BBC transmission: `96 MHz`
+- BBC transmission on FM (SG): `88.9 MHz`
 - Middle `A` on a piano: `440 Hz`
 - heart beats: `1 Hz`
 - spin dryer rotation: `16.6 Hz`
@@ -66,5 +67,6 @@ Challenges in hearing a station due to:
 - time of day
 - season
 - sunspot
+- noise/inteference
 
 *Public broadcasting services transmits the same program several times on a selection of frequencies in order to obtain world wide coverage*
