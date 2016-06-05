@@ -6,7 +6,7 @@
 - **Triode Valve** is a valve having three electrodes (Cathode, anode and control grid)
 - **Tetrode Valve** is a valve having four electrodes (Cathode, anode, control grid and screen grid)
 - **Pentode** is a valve with five electrodes (Cathode, anode, control grid, screen grid and suppressor grid)
-- **SWR** is defined as the ratio of the maximum radio-frequency (RF) voltage to the minimum RF voltage along the line. 
+
 
 ## Diagrams
 
