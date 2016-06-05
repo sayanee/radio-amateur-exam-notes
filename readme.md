@@ -16,8 +16,11 @@
 - [3 - Electromagnetism](3_electromagnetism.md)
 - [4 - Alternating current](4_alternating_current.md)
 - [5 - Power Supply Units](5_power_supply_units.md)
+- [6 - Semiconductor physics](6_semiconductor_physics.md)
 
-## Credits
+## Credits and other resources
 
 - [Basic Electronics Tutorials](http://www.electronics-tutorials.ws/) for images
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) for definitions
+- [Vintage Radio](http://www.vintage-radio.com/)
+- [Electronics stackexchange](https://electronics.stackexchange.com)
