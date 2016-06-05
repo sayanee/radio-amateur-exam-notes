@@ -13,5 +13,6 @@
 - [0 - License](0_license.md)
 - [1 - Frequency](1_frequency.md)
 - [2 - Basic electricity](2_basic_electricity.md)
+- [3 - Electromagnetism](3_electromagnetism.md)
 
 *More coming soon*
