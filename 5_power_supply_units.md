@@ -33,6 +33,7 @@ Power Supply Unit
 
   ![](img/zener.gif)
   > Image credit: [Electronics Tutorial](http://www.electronics-tutorials.ws/diode/diode_7.html)
+
 ## Notes
 
 Most modern Amateur Radio equipment operates:
