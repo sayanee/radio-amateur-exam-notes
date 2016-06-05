@@ -24,6 +24,7 @@
 - [09 - Power Amplifiers](09_power_amplifier.md)
 - [10 - Modulation](10_modulation.md)
 - [10a - EMC](10a_emc.md)
+- [11 - Interference](11_interference.md)
 
 ## Credits and other resources
 
