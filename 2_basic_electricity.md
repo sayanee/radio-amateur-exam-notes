@@ -20,7 +20,7 @@
 
 - `Coulomb` or `C` is the quantity of electricity. Symbol of charge is `Q`
 - `Ampere` or `A` is the unit of current flow. Symbol of current is `I`
-- `Voltage` or `V` is the unit of electrical pressure
+- `Voltage` or `V` is the unit of electrical pressure/potential
 - `Watt` or `W` is the unit of power dissipated
 - `Ohms` or `Ω` is the unit of resistance
 
@@ -61,7 +61,7 @@
 
 ### Atoms
 
--  There are about `102` different types of atoms
+-  There are about `118` different types of atoms (excluding isotopes)
 - The atom, as a whole, is normally electrically neutral
 - Each atom comprises a **nucleus** (in the centre) and one or more orbiting electrons
 - The **electrons** each have one negative charge
@@ -141,8 +141,9 @@ Band colors:
 
 #### Dummy load
 
-- testing a transmitter the aerial is often replaced by a **dummy load**
-- designed to **match the output of the transmitter** and be capable of **absorbing its full power output**
+- When testing a transmitter, the antenna may be often replaced by a **dummy load**
+- It is a resistor/set of resistors designed to **match the output impedance of the transmitter** and be capable of **absorbing its full power output**
+- Wire-wound resistors have a high power dissipation capacity, **but are not used as RF dummy loads** as it presents a reactive load to the transmitter.
 - In order that the heat is efficiently dissipated, It is usual to **immerse the resistors in oil**
 - oil will conduct the heat but not electricity
 - a small breathing hole in the can prevents the build up of pressure as the temperature rises
