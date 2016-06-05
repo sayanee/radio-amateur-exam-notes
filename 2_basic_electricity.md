@@ -32,12 +32,12 @@
 
 ## Circuit symbols
 
-- old resistor symbol
+- resistor symbol (ANSI)
 
-  ![](img/old-resistor.png)
-- new resistor symbol
+  ![](img/ANSI-resistor.png)
+- resistor symbol (IEC)
 
-  ![](img/new-resistor.png)
+  ![](img/IEC-resistor.png)
 - variable resistor symbol (adjusted during operation)
 
   ![](img/variable-resistor.png)

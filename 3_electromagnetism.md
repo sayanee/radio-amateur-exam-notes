@@ -3,7 +3,7 @@
 ## Definitions
 
 - **Mutual Inductance** is the principle of transformers where a **changing current** in primary circuit can **induce a voltage** into a secondary circuit
-- **Lens's Law** states that when the current through an inductor changes the voltage induced in it is in such a direction as to oppose the original change
+- **Lenz's Law** states that when the current through an inductor changes the voltage induced in it is in such a direction as to oppose the original change
 - Currents circulating in the core are known as **eddy currents**.
 - **Impedance matching** is the practice of designing the input impedance of an electrical load or the output impedance of its corresponding signal source to *maximize the power transfer* or minimize signal reflection from the load.
 
