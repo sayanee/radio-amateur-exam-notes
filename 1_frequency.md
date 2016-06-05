@@ -14,7 +14,7 @@
 
 Working with big numbers
 
-| Symbol  | Name | Multiplication by | Amount | No. of zeros |
+| Symbol  | Name | Multiplication by | Amount | Power of 10 |
 | --- | --- | --- |--- |---
 | `p`  | pico | 0.000000000001  | billionth | -12
 | `n`  | nano | 0.000000001  | billionth | -9
