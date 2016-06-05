@@ -30,7 +30,7 @@
 		- Radio Receivers and Transmitters
 		- Propagation and Aerials
 		- Measurement
-		
+
 ---
 
 ### Qualification required of the holder of Amateur Station License
@@ -156,7 +156,9 @@
 
 ![](img/log.png)
 
-*Grid - (optional) [Maidenhead system](https://en.wikipedia.org/wiki/Maidenhead_Locator_System) for location*
+> Image credit: 9V1AN's public [log](https://qrz.com/db/9V1AN)
+
+*"Grid" column (optional): [Maidenhead system](https://en.wikipedia.org/wiki/Maidenhead_Locator_System) for location*
 
 - **indelible** (of ink or a pen making marks that cannot be removed) record shall be kept in a log-book
 - **serially numbered**
@@ -328,14 +330,10 @@ More Examples:
 | 9 | QRO | power | Shall I **increase transmitter power**? | Increase transmitter power
 | 10 | QRP | power | Shall I **decrease transmitter power**? | Decrease transmitter power
 | 11 | QRQ | speed | Shall I send **faster**? | Send faster ( ___ words per minute)
-| x | QRR | x | x | x
 | 12 | QRS | speed | Shall I send **slowly**? | Send more slowly ( ___ words per minute)
 | 13 | QRT | speed | Shall I **stop** sending? | Stop sending
 | 14 | QRU | call | Are you **ready**? | I am ready
-| x | QRV | x | x | x
-| x | QRW | x | x | x
 | 16 | QRX | call | When will you call me **again**? | I will call you again at ___ hours on ___ kHz
-| x | QRY | x | x | x
 | 17 | QRZ | call | **Who** is calling me? | You are being called by ___ on ___ kHz
 |
 | 18 | QSA | signals | What is the **strength** of my signals? | The strength of your signals is (a) scarcely perceptible, (b) weak, (c\) fairly good, (d) good, (e) very good
