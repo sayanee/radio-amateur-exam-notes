@@ -236,23 +236,23 @@
 
 | Conditions | Frequency Bands <br> (in MHz) | Classes of Emission | Maximum DC Input Power | RF Output PEP <br> for A1, A2 and A3
 | --- | --- | --- | --- | --- | ---
-| - shared by other services <br> - RTTY may not be used | 1.8 - 2.0 | **A1A, A1B, <br> A2A, A2B** <br><br> **F1A, F1B, F2A, F2B** <br><br> A3E, R3E, G3E, H3E, J3E, F3E | 10 watts | 26.67 watts
-| - shared by other services | 3.5 - 3.9 | same as above | 300 watts | 800 watts
-| band `10.1 - 10.15` <br> is allocated on secondary basis | `7 -7.10`, <br> `10.1 - 10.15`, <br> `14 - 14.35`, <br> 18.068 - 18.168, <br> 21 - 21.45, <br> 24.890 - 24.990, <br> 28 - 29.7 | same as above | 300 watts | 800 watts
-| - need consent from IDA <br> - CW operators use the lower band <br> - other classes of emission use the mid and upper band | 144 – 146 | same as above | - | 25 watts |
-| - need consent from IDA (include power, conditions, operations) <br> - shared by other services <br> - only certain spot Frequencies are allocated in Amateur Service -  |  430 – 440 | same as above | - | Table below
-| same as above |  1240 - 1300, <br> 2300 - 2450, <br> 3300 - 3500, <br> 5650 - 5850, <br> 10000 - 10500 | same as above | | Subject to licensing conditions
-| same as above | 24,000 - 24,050 24,050 - 24,250 | same as above |  | Subject to licensing conditions
-| same as above | 2,350 - 2,400 5,700 - 5,800 | K1A, K2A, L2A, K2E and L3E | - | As above
+| - shared by other services <br> - RTTY may not be used | `1.8 - 2.0` | A1A, A1B, <br> A2A, A2B <br><br> F1A, F1B, F2A, F2B <br><br> A3E, R3E, G3E, H3E, J3E, F3E | 10 watts | 26.67 watts
+| - shared by other services | `3.5 - 3.9` | same as above | 300 watts | 800 watts
+| band `10.1 - 10.15` <br> is allocated on secondary basis | `7 - 7.10`, <br> `10.1 - 10.15`, <br> `14 - 14.35`, <br> `18.068 - 18.168`, <br> `21 - 21.45`, <br> `24.890 - 24.990`, <br> `28 - 29.7` | same as above | 300 watts | 800 watts
+| - need consent from IDA <br> - CW operators use the lower band <br> - other classes of emission use the mid and upper band | `144 – 146` | same as above | - | 25 watts |
+| - need consent from IDA (include power, conditions, operations) <br> - shared by other services <br> - only certain spot Frequencies are allocated in Amateur Service -  |  `430 – 440` | same as above | - | Table below
+| same as above |  `1240 - 1300`, <br> `2300 - 2450`, <br> `3300 - 3500`, <br> `5650 - 5850`, <br> `10000 - 10500` | same as above | | Subject to licensing conditions
+| same as above | `24,000 - 24,050` <br> `24,050 - 24,250` | same as above |  | Subject to licensing conditions
+| same as above | `2,350 - 2,400`, `5,700 - 5,800` | K1A, K2A, L2A, K2E and L3E | - | As above
 
 ##### Band plan and spot frequency
 
-| # | Band | Mode | Frequencies (MHz) | Maximum Output Power |
+| # | Band (MHz) | Mode | Frequencies (MHz) | Maximum Output Power |
 | --- | --- | --- | --- | ---
 | 1 | 432.000 - 432.150 | Continuous Wave (CW) only | 432.000 | 10 watts erp
 | 2 | 432.150 - 432.500 | Single-Sideband (SSB) and CW only | 432.200 | 10 watts erp
 | 3 | 432.500 - 432.800 | Radio Teleprinter (RTTY) Facsimile (FAX) | 432.600 | 10 watts erp
-| 4 | 433.375 - 434.600 | FM Simplex Channels | 433.625 433.650 | 10 watts erp
+| 4 | 433.375 - 434.600 | FM Simplex Channels | 433.625, 433.650 | 10 watts erp
 
 ### Modulation symbols
 
