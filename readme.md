@@ -18,6 +18,7 @@
 - [5 - Power Supply Units](5_power_supply_units.md)
 - [6 - Semiconductor physics](6_semiconductor_physics.md)
 - [7 - Amplifiers and Receivers](7_amplifiers_receivers.md)
+- [8 - Transmitters](8_transmitters.md)
 
 ## Credits and other resources
 
