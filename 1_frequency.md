@@ -59,7 +59,7 @@ Other services using the radio spectrum: *Shipping, Aircraft, Military, Citizens
 | 3 |` 100 m` – `10 m`| `3 MHz` - `30 MHz` | `HF` (High frequency)  | `3.5 MHz` (`80m`) <br> `7 MHz` (`40m`) <br> `10 MHz` (`30m`) <br> `14 MHz` (`20m`) <br> `18 MHz` <br> `21 MHz` <br> `24 MHz` <br> `28 MHz` | Broadcast short wave bands, Amateur Radio
 | 4 | `10 m` - `1 m`| `30 MHz` - `300 MHz` | `VHF` (Very high frequency)  | `144 MHz `  | Broadcast (FM, TV), Amateur Radio
 | 5 |`1 m` - `100 mm` | `300 MHz` - `3 GHz` | `UHF` (Ultra high frequency)  | `430 MHz`(`70cm`)| Amateur Radio, Microwave ovens, television, WiFi
-| 6 | `<100mm` | above `3000 MHz` | `SHF` (Super high frequency)  | Radio astronomy, microwave devices, WiFi, radar |
+| 6 | `<100mm` | above `3000 MHz` | `SHF` (Super high frequency)  |  | Radio astronomy, microwave devices, WiFi, radar |
 
 Challenges in hearing a station due to:
 
