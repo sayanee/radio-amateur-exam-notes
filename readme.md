@@ -19,6 +19,7 @@
 - [6 - Semiconductor physics](6_semiconductor_physics.md)
 - [7 - Amplifiers and Receivers](7_amplifiers_receivers.md)
 - [8 - Transmitters](8_transmitters.md)
+- [8a - propagation](8a_propagation.md)
 
 ## Credits and other resources
 

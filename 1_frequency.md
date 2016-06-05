@@ -1,7 +1,5 @@
 # 1. Frequency
 
-> Refer to [SARTS Lesson 0](http://www.sarts.org.sg/rae/Les0.pdf)
-
 ## Definitions
 
 - **Frequency**: The number of complete cycles that occur in each second

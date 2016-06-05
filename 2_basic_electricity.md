@@ -1,7 +1,5 @@
 # 2. Basic electricity
 
-> Refer to SARTS Notes [Lesson 1](http://www.sarts.org.sg/rae/Les1.pdf) and [Resistors](http://www.sarts.org.sg/rae/RESISTORSL1app.pdf)
-
 ## Definitions
 
 - **Law of the Charges**: Like charges repel and unlike charges attract
