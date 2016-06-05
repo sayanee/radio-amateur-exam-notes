@@ -46,7 +46,7 @@ Power supply from:
 - indoors: convert the 230 Volt AC "mains" to 12 Volt DC
 
 | Power Supply Unit  | Components | Description |
-| -- | -- | -- |
+| --- | --- | --- |
 | Mains | 230V AC |
 | Transformer | step-down Transformer | (1) capable of handling the required power <br> (2) primary winding of the transformer usually has a few "taps" so that various mains voltages can be used
 | Rectifier | 1 or more diodes | (1) very simple circuit will produce a great deal of hum at the supply frequency `50 Hz` <br> (2) A full wave rectifier circuit gives an output that contains hum at twice the supply frequency `100 Hz` |
