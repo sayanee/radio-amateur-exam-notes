@@ -23,6 +23,7 @@
 - [8c - Aerials and feeders](8c_aerials_feeders.md)
 - [9 - Power Amplifiers](9_power_amplifier.md)
 - [10 - Modulation](10_modulation.md)
+- [10a - EMC](10a_emc.md)
 
 ## Credits and other resources
 
