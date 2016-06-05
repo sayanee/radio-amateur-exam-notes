@@ -11,5 +11,6 @@
 ## Notes
 
 - [0 - License](0_license.md)
+- [1 -Frequency](1_frequency.md)
 
 *More coming soon*
