@@ -103,7 +103,7 @@ opposition
   - to provide the opposing force to balance the motor action
 
 | Ammeter  | Voltmeter |
-| - | - |
+| --- | --- |
 | low resistance  | high resistance  |
 | avoid reducing the current in the circuit under test  | take minimum current from the circuit under test  |
 | measure as **high current** as possible  | measure as **high voltage** as possible |
