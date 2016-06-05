@@ -27,6 +27,7 @@ Power Supply Unit
 
   ![](img/rectifier_bridge.gif)
   > Image credit: [Play hookey](http://www.play-hookey.com/ac_theory/power_supply/ps_rectifiers.html)
+
 ## Graphs
 
 - Zener diode graph
