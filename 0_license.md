@@ -123,7 +123,7 @@
 ##### Phonetic Alphabet
 
 | Letter to transmit | Word to be used |
-| -- | -- |
+| ------ | ------ |
 | A | Alfa
 | B | Bravo
 | C | Charlie
@@ -233,7 +233,7 @@
 ### Frequency bands, power and classes of emissions
 
 | Conditions | Frequency Bands <br> (in MHz) | Classes of Emission | Maximum DC Input Power | RF Output PEP <br> for A1, A2 and A3
-| -- | -- | -- | -- | -- | --
+| --- | --- | --- | --- | --- | ---
 | - shared by other services <br> - RTTY may not be used | 1.8 - 2.0 | **A1A, A1B, <br> A2A, A2B** <br><br> **F1A, F1B, F2A, F2B** <br><br> A3E, R3E, G3E, H3E, J3E, F3E | 10 watts | 26.67 watts
 | - shared by other services | 3.5 - 3.9 | same as above | 300 watts | 800 watts
 | band `10.1 - 10.15` <br> is allocated on secondary basis | `7 -7.10`, <br> `10.1 - 10.15`, <br> `14 - 14.35`, <br> 18.068 - 18.168, <br> 21 - 21.45, <br> 24.890 - 24.990, <br> 28 - 29.7 | same as above | 300 watts | 800 watts
@@ -246,7 +246,7 @@
 ##### Band plan and spot frequency
 
 | # | Band | Mode | Frequencies (MHz) | Maximum Output Power |
-| -- | -- | -- | -- | --
+| --- | --- | --- | --- | ---
 | 1 | 432.000 - 432.150 | Continuous Wave (CW) only | 432.000 | 10 watts erp
 | 2 | 432.150 - 432.500 | Single-Sideband (SSB) and CW only | 432.200 | 10 watts erp
 | 3 | 432.500 - 432.800 | Radio Teleprinter (RTTY) Facsimile (FAX) | 432.600 | 10 watts erp
@@ -259,7 +259,7 @@ The ITU uses an internationally agreed system for classifying radio frequency si
 [Modulation types](https://en.wikipedia.org/wiki/Types_of_radio_emissions#Type_of_modulation) (1st digit)
 
 | Symbol | Modulation | Carrier | Sideband | Example
-| -- | -- | -- | -- | --
+| --- | --- | --- | --- | ---
 | A | amplitude | | Double | AM broadcast radio
 | R | |	reduced or variable | Single
 | G |	phase
@@ -272,7 +272,7 @@ The ITU uses an internationally agreed system for classifying radio frequency si
 [Type of modulating signal](https://en.wikipedia.org/wiki/Types_of_radio_emissions#Type_of_modulating_signal) (2nd digit)
 
 | Number | Channel | Info | Subcarrier | Others
-| -- | -- | -- | -- | --
+| --- | --- | --- | --- | ---
 | 0 |	No modulating signal
 | 1 |	One | digital | none |  without modulating audio frequency
 | 2 |	One | digital | using | with modulating audio frequency
@@ -281,7 +281,7 @@ The ITU uses an internationally agreed system for classifying radio frequency si
 [Type of transmitted information](https://en.wikipedia.org/wiki/Types_of_radio_emissions#Type_of_transmitted_information) (3rd digit)
 
 | Symbol | Type | Decoded by | Example
-| -- | -- | -- | --
+| --- | --- | --- | ---
 | N | | |	No transmitted information
 | A |	Aural Telegraphy | by ear | Morse code
 | B | Electronic Telegraphy (Teletype) |  | radioteletype and digital modes
@@ -290,7 +290,7 @@ The ITU uses an internationally agreed system for classifying radio frequency si
 More Examples:
 
 | No. | Type | Symbol | Description
-| - | - | - | -
+| --- | --- | --- | ---
 | 1 | Amplitude Modulation | A1A | Morse telegraphy
 | 2 | Amplitude Modulation | A1B | Teletype telegraphy
 | 3 | Amplitude Modulation | A2A | Morse telegraphy
@@ -315,17 +315,8 @@ More Examples:
 
 ### International Q Codes
 
-	- All starts with `Q`
-	- Middle letter is `R, S, T`
-	- Start `QR` from `G` and remove `JR VW Y`
-		- frequency (3), interference (4), power (2), speed (1), call (3)
-	- Include `QS` only `AB DLOP VZ`
-		- signals, communicate
-	- Include `QTH` and `QTR`
-		- location, time
-
 | | | Type | Question | Answer
-| - | - | - | - | -
+| --- | --- | --- | --- | ---
 | 1 |QRG | frequency | Will you tell me my **exact frequency**? | Your exact frequency is ____kHz
 | 2 |QRH | frequency | Does my **frequency vary**? | Your frequency varies
 | 3 |QRI | frequency | What is the **tone of my transmission**? | The tone of your transmission is (a) good, (b) variable, (c\) bad
