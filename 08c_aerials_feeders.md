@@ -102,6 +102,14 @@
 - feed impedance of `100Ω`
 - coaxial feeder cable of `50Ω` impedance
 
+### Standing wave ratio (SWR)
+
+- It is defined as the ratio of the maximum radio-frequency (RF) voltage to the minimum RF voltage along the line.
+- The SWR can also indicate if an impedance mismatch has occured, and by how much. 
+- An open or short circuit will result in an infinite SWR.
+- If there is an impedance mismatch, it will result in an inefficient power transfer from source to load as the signal is reflected back towards the transmitting source.
+- Thus, a good impedance match is key to achieving a maximum power transfer to the load, and thus generaly leads to more of your signal being radiated out.
+
 ### Standing wave ratio meters
 
 - A terminating resistor, equal to the characteristic impedance of the cable, is connected across the far end of the cable
