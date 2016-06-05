@@ -25,6 +25,7 @@
 - [10 - Modulation](10_modulation.md)
 - [10a - EMC](10a_emc.md)
 - [11 - Interference](11_interference.md)
+- [12 - Meters](12_meters.md)
 
 ## Credits and other resources
 
