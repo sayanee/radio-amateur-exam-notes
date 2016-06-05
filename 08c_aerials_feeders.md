@@ -11,9 +11,10 @@
 - **Director** is a shorter wire on the other side of the dipole that will further increase the directional qualities
 - **Coaxial cable (coax)** has a centre conductor that is surrounded by insulation and a wire mesh screening
 - **Screen** is usually earthed and this cable is known as a **unbalanced feeder**
-- **Ribbon cable feeder** comprises of two parallel wires
+- **Ribbon cable feeder** comprises of two parallel wires separated by an insulator
 - **Balun** can also be constructed to change the impedance
 - **Standing waves** occurs when there is the presence of both forward and reverse voltages & currents. If a feeder is incorrectly matched then some of the transmitted power will be reflected.
+- **SWR** is defined as the ratio of the maximum radio-frequency (RF) voltage to the minimum RF voltage along the line. This in turn, tells you if the impedances between the load and source (transmitter) are matched.
 - **Standing wave ratio meters (SWR meter or bridge)** will determine the ratio between the forward and the reverse powers within the feeder cable and can indicate if the aerial is correctly matched to the feeder.
 - **Aerial Matching unit (AMU)** can improve this matching and can also (where necessary) perform the function of a balun when the impedance at the feed point of an aerial does not match the impedance of the of the feeder cable
 
@@ -25,6 +26,10 @@
 - Yagi antenna
 
   ![](img/yagi.gif)
+  
+- Yagi radiation patten
+
+  ![](img/yagi_rad_pat.gif)
 
 ## Circuit diagrams
 
@@ -53,7 +58,7 @@
 | 1 | Half wave dipole | A feeder of that impedance can be used to give a good match | `λ/2` with `λ/4` on each side | low impedance at the centre feed point (`70Ω` / `80Ω`)
 | 2 | Ground plane | - The feeder cable is connected to the lower end and earth. <br> - The vertical aerial would normally be fed with coaxial cable from the radio. <br> - The inner is connected to the bottom of the aerial <br> - The outer screen is connected to earth (or ground plane wires or plate).| `λ/4` in vertical height |
 | 3 | End Fed | An Aerial Matching Unit (sometimes referred to as a Aerial Tuning Unit) would normally be used at the feed point | length of the wire should *not* be an even number of `λ/4` | The AMU would be connected with `50Ω`, `60Ω` or `70Ω` coaxial cable
-| 4 | Multiband | For the aerial to function well on several Amateur Bands, it can be electrically achieved if tuned circuits are inserted into the aerial wires | `2 x λ/4` | `70Ω`
+| 4 | Multiband | For the aerial to function well on several Amateur Bands, it can be electrically achieved if tuned circuits are inserted into the aerial wires | `2 x λ/4` | 
 | 5 | Directional | - designed to concentrate the transmitted RF energy transmitting in one direction <br> - If another wire, slightly longer than the dipole, is placed parallel to and about `λ/4` away, then the aerial will have directional qualities. This extra wire is called a **reflector** <br> - Adding a shorter wire **director** on the other side will further increase the directional qualities. |
 | 6 | Yagi | - frequently used at VHF and UHF <br> - Adding directors dramatically reduces the impedance of the feed point of the driven element <br> - In order to combat this, the dipole is replaced by a loop.| element spacing is typically `λ/4`
 | 7 | Quad | - Have rod or wire elements that are formed into square loops <br> - Quad Aerial is compact and prevents high angle radiation | square loops with `λ/4` sides |
