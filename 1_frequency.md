@@ -14,7 +14,7 @@
 
 Working with big numbers
 
-| Symbol  | Name | Multiplication by | Amount | Power of 10 |
+| Symbol  | Name | Multiplication by | Amount | No. of zeros |
 | --- | --- | --- |--- |---
 | `p`  | pico | 0.000000000001  | billionth | -12
 | `n`  | nano | 0.000000001  | billionth | -9
@@ -54,12 +54,12 @@ Other services using the radio spectrum: *Shipping, Aircraft, Military, Citizens
 
 | | Wavelength range | Frequency range  | Name | Amateur bands | Uses
 | --- | --- | --- | --- | --- | ---
-| 1 | `1000m - 100m`| `0.3 MHz` - `3 MHz`  | `LF` (Low frequency)  | `1.8 MHz` (`160m`) | Low
-| 2 |`100m` - `10m`| `3 MHz` - `30 MHz`  | `MF` (Medium frequency)  | `3.5 MHz` (`80m`) <br> `7 MHz` (`40m`) <br> `10 MHz` (`30m`) <br> `14 MHz` (`20m`) <br> `18 MHz` <br> `21 MHz` <br> `24 MHz` <br> `28 MHz` | Medium
-| 3 |`10m` - `1m`| `30 MHz` - `300 MHz` | `HF` (High frequency)  | `50 MHz` (`6m`) <br> `70 MHz` <br> `144 MHz` (`2m`) | Broadcast short wave bands
-| 4 | `1m` - `10cm`| `300 MHz` - `3000 MHz` | `VHF` (Very high frequency)  | `144 MHz `, `420 MHz`(`70cm`), `1240 MHz` (`23cm`), `2310 MHz` | Broadcast (FM, TV)
-| 5 |`10cm` | `3000 MHz` - `3400 MHz` | `UHF` (Ultra high frequency)  | |
-| 6 | `10cm` | above `3400 MHz` | `USHF` (Super ultra high frequency)  |  |
+| 1 | `10 km` – `1 km`| `30 kHz` – `300 kHz`  | `LF` (Low frequency)  | None | Low
+| 2 | `1 km` – `100 m`| `300` – `3 MHz`  | `MF` (Medium frequency)  | `1.8 MHz` (`160m`) | Amateur Radio, AM Broadcasting (not as common now)
+| 3 |` 100 m` – `10 m`| `3 MHz` - `30 MHz` | `HF` (High frequency)  | `3.5 MHz` (`80m`) <br> `7 MHz` (`40m`) <br> `10 MHz` (`30m`) <br> `14 MHz` (`20m`) <br> `18 MHz` <br> `21 MHz` <br> `24 MHz` <br> `28 MHz` | Broadcast short wave bands, Amateur Radio
+| 4 | `10 m` - `1 m`| `30 MHz` - `300 MHz` | `VHF` (Very high frequency)  | `144 MHz `  | Broadcast (FM, TV), Amateur Radio
+| 5 |`1 m` - `100 mm` | `300 MHz` - `3 GHz` | `UHF` (Ultra high frequency)  | `430 MHz`(`70cm`)| Amateur Radio, Microwave ovens, television, WiFi
+| 6 | `<100mm` | above `3000 MHz` | `SHF` (Super high frequency)  | Radio astronomy, microwave devices, WiFi, radar |
 
 Challenges in hearing a station due to:
 
