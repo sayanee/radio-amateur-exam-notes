@@ -41,7 +41,6 @@
 - Apply online via **Telcom Licensing System**
 - Documents required: citizenship, results of the exam / valid cert, station license
 - do not purchase equipment until it is approved
-- a **separate license** for a broadcast sound receiver
 
 ### License fee
 
