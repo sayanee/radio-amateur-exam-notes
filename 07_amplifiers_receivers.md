@@ -5,9 +5,27 @@
 - **Coupling capacitor** is a capacitor which is used to couple or link together only the AC signal from one circuit element to another. The capacitor blocks the DC signal from entering the second element and, thus, only passes the AC signal.
 - If a proportion of the output of an amplifier is fed back, in phase, to the input it is known as **positive feedback**
 - **Amplifier Classes** represent the amount of the output signal which varies within the amplifier circuit over one cycle of operation when excited by a sinusoidal input signal.
+- **Crossover distortion** happens in push-pull amplifier circuits when a signal "crosses-over" from positive to negative or vice versa.
+  - Caused by a small delay between transistors turning on and off during a transition from positive to negative or otherwise.
+  - Can be fixed by pre-biasing the transistors using diodes or a voltage divider.
 - The **class A amplifier** has the highest linearity over the other amplifier classes and as such operates in the linear portion of the characteristics curve.
 - **Push-pull amplifier** means one transistor amplifies the positive half cycles and the other transistor amplifies the negative half cycles
-- Twin Ganged Capacitor are two tuning capacitors
+- A ganged capacitor are two or more tuning capacitors that are adjusted at the same time by the same shaft.
+
+## Images 
+
+- Picture of ganged capacitor
+
+![](img/ganged_varicap.JPG)
+
+- Symbol for ganged capacitor
+
+![](img/ganged_varicap_symbol.png)
+
+- Waveform seen during crossover distortion
+
+![](img/crossover_distortion.gif)
+
 
 ## Circuit diagrams
 
@@ -81,14 +99,14 @@ transistor would be destroyed due to incorrect biasing
 ### Amplifier classes
 
 | Amplifier Class | Conduction angle | Conduction Angle | Operating efficiency |
-| - | - | - | -
+| --- | --- | --- | ---
 | Class-A | Full cycle `360°` | `θ = 2π` | `50%`
 | Class-B | Half cycle `180°` | `θ = π` | `66.6%`
 | Class-AB | Slightly more than `180°` | `π < θ < 2π`
 | Class-C | Slightly less than `180°` | `θ < π` | `80%`
 | Class-D to T | ON-OFF non-linear switching | `θ = 0`
 
-##### Amplifier A
+##### Class A amplifiers
 
 - base bias is set so that the whole of the input signal uses a central portion of the curve
 - **Distortion** has taken place if the output signal is not the same shape as the input signal
@@ -99,21 +117,26 @@ transistor would be destroyed due to incorrect biasing
   - Input signal too great
     - flat bottom and top
 
-##### Amplifier B
+*Application: Hi-Fi audio, SSB/AM transmission or anything that requires high linearity*
+
+##### Class B amplifiers
 
 - collector current only flows for 50% of input cycle
-- An advantage of Class 'B' operation is that much larger signals than can Class 'A' but it requires two transistors
+- An advantage of Class 'B' operation is that it can deliver more power than Class 'A' but it requires two transistors in a push-pull configuration.
+- More power efficient
+- **Crossover distortion** may occur, which may affect linearity
 
 *Application: drive a loud speaker*
 
-##### Amplifier C
+##### Class C amplifiers
 
 - Operation of transistor is biased well beyond the *cut-off*
 - It is only necessary to give a regular push to
 keep it going (E.g. like a swing)
 - Such amplifiers use tuned resonant circuits as their collector load and they only need pulses of signal
+- **Not for use** when application demands linear operation.
 
-*Application: Used in radio frequency amplifiers*
+*Application: Used in amplification of FM signals*
 
 ### Superhetrodyne Receiver
 
