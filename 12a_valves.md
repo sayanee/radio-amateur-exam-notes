@@ -33,7 +33,7 @@
 
 ## Notes
 
-### Diode Valve
+### Diodes
 
 - By heating a metal, electrons on the surface of the metal become very agitated and electrons will escape from its surface.
 - A diode is constructed with two
@@ -44,7 +44,7 @@
 - liberated negative electrons are attracted to the Anode because It is at a positive potential
 - Like a semiconductor diode, reversing the polarity of the diode blocks current flow since electrons will not escape from a positive cathode
 
-##### Amplification
+### Triodes 
 
 - To amplifiy, there has to be a means of controlling the flow of electrons from the cathode to the anode.
 - This is achieved by adding a wire mesh (grid) between the cathode and the anode
@@ -52,6 +52,21 @@
 - When a negative signal is applied to the grid, it will repel some of the negative electrons and therefore reducing electron flow from cathode to anode.
 - Conversely, applying a positive signal to the gride causes more electrons to be attracted, and thus, more electrons reach the anode
 - Thus, since applying a small current can control a larger current flow, the valve can thus amplify the signal.
+- Such a tube with an anode, cathode and grid is called a triode.
+
+### Tetrodes
+
+##### Issues with triodes
+- The space between the cathode, anode and grid of a triode gives rise to interelectrode capacitance.
+  - This makes it **not suitable** for high frequency applications
+
+- Triode interelectrode capacitance:
+
+  ![](img/triode_inter_capacitance.jpg)
+  
+##### The solution:
+- Placing another grid in between the anode and cathode helps reduce the interelectrode capacitance (series capacitance)
+  - TODO: complete this part
 
 #### Valve as an amplifier
 
