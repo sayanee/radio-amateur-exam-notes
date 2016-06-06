@@ -10,6 +10,10 @@
 
 ## Diagrams
 
+- Spectrogram and waterfall  of a transmitted signal on 145.5 MHz, showing harmonics
+
+![](img/harmonics_spectrum.png)
+
 ## Circuit diagrams
 
 ## Graphs
