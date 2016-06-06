@@ -93,7 +93,7 @@
 ### Balanced / Unbalanced
 
 | Balanced | Unbalanced
-| - | - |
+| --- | --- |
 | - feed-point of a dipole aerial <br> - twin feeder | - Aerial socket on a radio <br> - Coaxial cable
 
 *Often necessary to "convert" from balanced to unbalanced*
