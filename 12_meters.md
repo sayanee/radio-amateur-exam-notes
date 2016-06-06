@@ -116,5 +116,5 @@
 - most of this work should be done with the transmitter not connected to the aerial
 - Aerial must be disconnected and power must be suitably absorbed
 - dummy load must be of an impedance to match the transmitter output usually `50Ω` / `75Ω` for handling `~100W`
-- construct a `500Ω` dummy load from `10 X 50Ω` in parallel, with each resistor rated at `10W`
-- possibly for a lower rated resistor if they are immersed in oil
+- construct a `50Ω` dummy load from `10 X 500Ω` in parallel, with each resistor rated at `10W`
+- you can use a lower rated resistor if they are immersed in oil
