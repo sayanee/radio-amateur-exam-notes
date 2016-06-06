@@ -4,7 +4,8 @@
 
 - **Half wave rectification** will allow current flow through the load during the positive half cycles
 - **Full wave rectification** will allow current flow through the load during both positive and negative cycles
-- **Diode bridge configuration** circuit allows a full wave rectification
+- **Diode bridge configuration** circuit allows for full wave rectification of an input AC souce
+- **Voltage Regulators** are circuits that help to maintain a constant voltage output
 
 ## Diagrams
 
@@ -20,6 +21,7 @@ Power Supply Unit
 
   ![](img/halfwave-rectification.gif)
   > Image credit: [Electronics Tutorial](http://www.electronics-tutorials.ws/diode/diode_5.html)
+  
 - Full-wave rectification
 
   ![](img/fullwave-rectification.gif)
@@ -27,6 +29,11 @@ Power Supply Unit
 
   ![](img/rectifier_bridge.gif)
   > Image credit: [Play hookey](http://www.play-hookey.com/ac_theory/power_supply/ps_rectifiers.html)
+  
+- Voltage regulators 
+  
+![](img/78xx_reg_cir.png)
+  > Image credit: Fairchild Semiconductor
 
 ## Graphs
 
@@ -39,7 +46,7 @@ Power Supply Unit
 
 Most modern Amateur Radio equipment operates:
 
-- `12 V DC` low voltage supply
+- `13.8 V DC` low voltage supply
 - `20 A` high current
 
 Power supply from:
