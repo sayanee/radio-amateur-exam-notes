@@ -36,3 +36,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) for definitions
 - [Vintage Radio](http://www.vintage-radio.com/)
 - [Electronics stackexchange](https://electronics.stackexchange.com)
+
+## Recommended reads:
+- The Beginner's Handbook Of Amateur Radio (4th edition)
+- The ARRL Handbook for Radio Amateurs
