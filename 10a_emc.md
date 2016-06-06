@@ -119,11 +119,11 @@ Older equipments
 #### Power measurement in your log book
 
 - present license now requires the log entry to include the output 'power'
-- Most power meters are calibrated directly in `Watts` rather that `dB`
+- Most power meters are calibrated directly in `Watts` rather than `dB`
 
 | Decibel | Watt
-| - | -
-| 9dB | 6W
+| --- | --- 
+| 9dB | 6W 
 | 10dB | 10W
 | 14dB | 25W
 | 15dB | 32W
