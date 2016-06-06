@@ -35,7 +35,7 @@
 
 ### Qualification required of the holder of Amateur Station License
 
-- **Amateur Station Licence** for operating radio tx/rx equipment or radio communication techniques
+- **Amateur Station Licence** for operating radio transmission/reception equipment.
 - pass **Radio Amateur's Examination** or qualification that is acceptable to IDA
 - IDA may refuse without any reason
 - Apply online via **Telcom Licensing System**
@@ -44,8 +44,10 @@
 
 ### License fee
 
-- license is **renewable annually**
-- license fee must be **paid before the anniversary of the issue date** of the license
+- license is **renewable every 5 years**
+- license fee currently is $100
+- license fee must be **paid withing 7 days of expiry** of the license
+  - Late fees will be applicable afterwards.
 - IDA has waived the frequency application, processing fee and annual frequency usage fee
 
 ### Amateur Station License
@@ -177,10 +179,10 @@
 
 ### Interference
 
-- **equipment** is designed, constructed, maintained and used in the operation of the station to avoid interference
-- does not cause any harmful interference to other authorised radio services or stations
+- **Equipment** must be designed, constructed, maintained and used in the operation of the station to avoid interference
+- Operator **must not** cause any harmful interference to other authorised radio services or stations
 - In the case of interference, the licensee shall take all possible steps to eliminate the source of such interference
-- precautions:
+- Precautions:
 	1. avoid over-modulation
 	1. keep the radiated energy within the narrowest possible frequency bands
 	1. radiation of harmonics and spurious emissions shall be suppressed
