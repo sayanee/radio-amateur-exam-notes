@@ -3,9 +3,9 @@
 ## Definitions
 
 - **Bandwidth** is the amount of frequency band that is required for each transmission
-- **Beacons** are specially licensed unattended transmitters that radiate a continuous signal
+- **Beacons** are specially licensed unattended transmitters that radiate a continuous signal to assist with checking of signal propagation 
 - **Uchannelised** means that transmissions take place on specific frequencies or channels
-- **S (Simplex)** is the normal method of Amateur communication where both stations transmit, in turn, on the same frequency
+- **S (Simplex)** is the normal method of Amateur communication where both stations transmit, one at a time on a single frequency
 - **R (Repeater)** are built by amateurs to assist communication between "mobiles" even when they are on opposite sides of a hill
 - **Calling frequencies** are designated frequencies to establish initial contact
 
@@ -54,7 +54,7 @@
 
 #### Calling frequency
 
-- `60m` or `40m` amateur bands are very busy
+- `40m` amateur bands can very busy
 - `2m` and `10m` can be very quiet at times due to propagation or geographical difficulties
 - it is prudent to call on this calling frequency
 - as soon as two way communication has been established one of the stations should ask the other to stand-by
