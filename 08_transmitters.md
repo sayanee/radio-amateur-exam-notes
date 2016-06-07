@@ -20,3 +20,5 @@ To obtain the correct feedback to ensure oscillation:
 - Mutual inductance (transformer action) between the coils in the input and output circuits
 - Feedback circuit from output to input
 - Tapped coil. Part of the coil is in the input circuit and part of the coil is in the output circuit.
+
+TODO: [Clapp oscillator](https://en.wikipedia.org/wiki/Clapp_oscillator) - it came out in the exams
