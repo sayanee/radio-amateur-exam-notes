@@ -18,14 +18,17 @@
 
 ![](img/ganged_varicap.JPG)
 
+## Circuit symbols
+
 - Symbol for ganged capacitor
 
 ![](img/ganged_varicap_symbol.png)
 
+## Graphs
+
 - Waveform seen during crossover distortion
 
 ![](img/crossover_distortion.gif)
-
 
 ## Circuit diagrams
 
