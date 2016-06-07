@@ -4,9 +4,9 @@
 
 - **Bandwidth** is the amount of frequency band that is required for each transmission
 - **Beacons** are specially licensed unattended transmitters that radiate a continuous signal to assist with checking of signal propagation 
-- **Uchannelised** means that transmissions take place on specific frequencies or channels
+- **Channelised** means that transmissions take place on specific frequencies or channels
 - **S (Simplex)** is the normal method of Amateur communication where both stations transmit, one at a time on a single frequency
-- **R (Repeater)** are built by amateurs to assist communication between "mobiles" even when they are on opposite sides of a hill
+- **R (Repeaters)** are stations that re-transmit a received signal on a different frequency so as to allow further coverage of the transmission.
 - **Calling frequencies** are designated frequencies to establish initial contact
 
 ## Notes
@@ -14,7 +14,7 @@
 #### Suggested bands
 
 | Transmission | Frequency |
-| - | -
+| --- | ---
 | CW (Morse) | bottom 100 kHz (i.e. 3.5-3.6 MHz)
 | RTTY (Teleprinters) | 3.6 MHz (3.59-3.62 MHz)
 | SSB (speech) | 3.6-3.9 MHz
@@ -29,7 +29,7 @@
 #### 2 Meter Bands
 
 | Type | Bandwidth
-| - | -
+| --- | ---
 | CW sector | bottom `150 KHz` (`144 MHz` - `144.15 MHz`)
 | SSB speech | `144.15 MHz` - `144.5 MHz`
 | open all modes | `144.5 MHz` - `144.9 MHz`
@@ -43,7 +43,7 @@
 #### Further Band Planning
 
 | Frequency | Usage
-| - | -
+| --- | ---
 | `144.01 MHz` | Moon bouncing
 | `144.05 MHz` | CW calling frequency
 | `144.3 MHz` | SSB calling frequency
