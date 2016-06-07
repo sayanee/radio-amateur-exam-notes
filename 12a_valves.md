@@ -36,12 +36,12 @@
 ### Diodes
 
 - By heating a metal, electrons on the surface of the metal become very agitated and electrons will escape from its surface.
-- A diode is constructed with two
-- inner tube (cathode) has a heater wire threaded through it
-- outer tube is the anode and is connected to a high positive voltage, say, `150 Volts`
-- cathode is coated with Barium Oxide and made very hot
-- heated by a heater wire (element or filament)
-- liberated negative electrons are attracted to the Anode because It is at a positive potential
+- A diode is constructed with two electrodes: anode and cathode (heater not included)
+- Cathode is tied to ground.
+- High voltage is applied to the anode of the tube (also called plate)
+- Cathode is coated with Barium Oxide
+- Cathode is heated by a filament (made of heating wire)
+- Liberated negative electrons are attracted to the anode because it is at a positive potential
 - Like a semiconductor diode, reversing the polarity of the diode blocks current flow since electrons will not escape from a positive cathode
 
 ### Triodes 
@@ -72,6 +72,10 @@
     - This enhances the attraction of electrons from the cathode to the anode as well.
     - Leads to a higher gain.
   
+- Tetrode configuration:
+
+![](img/tetrode_amp_cir.png)
+
 ### Pentodes
 - You may be asking: "Why do we need so many different kinds of tubes?"
 
@@ -87,20 +91,14 @@
 - Add another grid in between the cathode and anode =P
   - Tied to cathode.
   - Since cathode is more negative in respect to the anode, secondary emission of electrons is reduced.
-  - TODO: Add images!
+  
+- Part of amplifier circuit, using a pentode:
+
+![](img/pentode_amp_cir.jpg)
 
 
-#### Valve as an amplifier
+### Example circuit (TODO: re-write or remove)
 
-- DC anode current has an 'amplified' AC (audio) superimposed on it
-- varying current develops both DC and AC voltage across R1
-- AC is picked off by C2 and will be an amplified version of the input signal
-- 5 electrodes:
-  - Anode,
-  - Cathode
-  - Control Grid
-  - Screen Grid
-  - Suppressor Grid
 
 Advantages:
 
@@ -111,6 +109,7 @@ Advantages:
 Disadvantages:
 
 - Requires a high voltage power supply
+- Fragile; requires care when handling!
 - Precautions necessary to avoid electric shock
 - Valves wear out and require replacement which is likely to be expensive
 - Less convenient for 'mobile' operation
