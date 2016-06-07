@@ -10,9 +10,10 @@
 
 ## Diagrams
 
-- Valve
+- Actual valve amplifier (audio)
 
-  ![](img/valve.png)
+  ![](img/tube_amp_irl.jpg)
+
 - Triode
 
   ![](img/triode.png)
