@@ -16,6 +16,10 @@
 
 ## Circuit diagrams
 
+- Circuit of Icom IC-718's Power Amplifier
+
+![](img/IC718_PA.png)
+
 ## Graphs
 
 ## Notes
