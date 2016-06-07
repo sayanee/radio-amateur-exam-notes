@@ -46,7 +46,7 @@
 
 - license is **renewable every 5 years**
 - license fee currently is $100
-- license fee must be **paid withing 7 days of expiry** of the license
+- license fee must be **paid within 7 days of expiry** of the license
   - Late fees will be applicable afterwards.
 - IDA has waived the frequency application, processing fee and annual frequency usage fee
 
