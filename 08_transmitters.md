@@ -4,7 +4,8 @@
 
 ## Definitions
 
-- **Oscillator** is an amplifier whose output is connected back to its own input
+- **Oscillator** are circuits that continually generates a signal at a given frequency.
+
 
 ## Notes
 
@@ -22,3 +23,15 @@ To obtain the correct feedback to ensure oscillation:
 - Tapped coil. Part of the coil is in the input circuit and part of the coil is in the output circuit.
 
 TODO: [Clapp oscillator](https://en.wikipedia.org/wiki/Clapp_oscillator) - it came out in the exams
+
+## Types of oscillator circuits
+
+##### Colpitts Oscillator 
+
+- Circuit of a Colpitts Oscillator, using a crystal:
+
+ ![](img/osc_colpitts.png)
+ 
+- Circuit of a Colpitts Oscillator, using a series LC network:
+
+ ![](img/osc_colpitts_lc.png)
