@@ -50,6 +50,12 @@
   - Late fees will be applicable afterwards.
 - IDA has waived the frequency application, processing fee and annual frequency usage fee
 
+##### Important note:
+- Admittedly, as of now, the exam is very old.
+- Also, the current 2013 IDA Handbook still reflects that the license is renewable **annually** and fee is **$50**
+- Please check the IDA Handbook for any updates pertaining to changes in syllabus or regulations.
+  - Advised to follow latest IDA Handbook in regards to this.
+
 ### Amateur Station License
 
 - be over `21`
