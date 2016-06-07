@@ -59,6 +59,7 @@
 ##### Issues with triodes
 - The space between the cathode, anode and grid of a triode gives rise to interelectrode capacitance.
   - This makes it **not suitable** for high frequency applications
+  - This also gives rises to feedback, which could lead to instability
 
 - Triode interelectrode capacitance:
 
@@ -66,7 +67,28 @@
   
 ##### The solution:
 - Placing another grid in between the anode and cathode helps reduce the interelectrode capacitance (series capacitance)
-  - TODO: complete this part
+  - This grid is called the screen grid.
+  - Usally tied to a high voltage in respect to the cathode.
+    - This enhances the attraction of electrons from the cathode to the anode as well.
+    - Leads to a higher gain.
+  
+### Pentodes
+- You may be asking: "Why do we need so many different kinds of tubes?"
+
+##### Issues with tetrodes:
+- Remember how the screen grid helps enhance the attraction of electrons to the anode?
+- At times, the electrons can have so much energy that when it hits the anode, that they dislodge electrons from its surface.
+   - This is called "secondary emission"
+   - Has a detrimental effect to gain.
+   - Impedes flow of current in the tube
+   
+
+##### The solution:
+- Add another grid in between the cathode and anode =P
+  - Tied to cathode.
+  - Since cathode is more negative in respect to the anode, secondary emission of electrons is reduced.
+  - TODO: Add images!
+
 
 #### Valve as an amplifier
 
