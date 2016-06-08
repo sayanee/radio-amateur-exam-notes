@@ -38,7 +38,7 @@
 - [Electronics stackexchange](https://electronics.stackexchange.com)
 
 ## Recommended reads :closed_book: :green_book: :blue_book:
-- The Beginner's Handbook Of Amateur Radio (4th edition)
+- The Beginner's Handbook Of Amateur Radio, 4th edition -- By Clay Laster, W5ZPV
 - The ARRL Handbook for Radio Amateurs
 
 ## Contribute
