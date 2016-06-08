@@ -1,14 +1,14 @@
 # Radio Amateur Exam notes
 
-> This is for Singapore's Radio Amateur Exam notes. Also refer to [SARTS notes](http://www.sarts.org.sg/rae/studyrae.html).
+> This is for Singapore's Radio Amateur Exam notes. Also refer to [SARTS notes](http://www.sarts.org.sg/rae/studyrae.html). Except for [License notes](00_license.md), the rest of the content should be pretty country-agnostic and relevant to amateur radio knowledge.
 
-## Relevant groups
+## Relevant groups :couple::two_women_holding_hands::two_men_holding_hands:
 
 - [IDA](https://www.ida.gov.sg/)
 - [SARTS](http://www.sarts.org.sg/)
 - [HAM Radio SG](https://www.facebook.com/groups/232268357146272/)
 
-## Notes
+## Notes :page_facing_up: :bookmark_tabs: :page_with_curl:
 
 - [00 - License](00_license.md)
 - [01 - Frequency](01_frequency.md)
@@ -30,13 +30,17 @@
 - [13 - Band Planning](13_band_planning.md)
 - [14 - Transmitter Measurements](14_transmitter_measurements.md)
 
-## Credits and other resources
+## Credits and other resources :sparkles:
 
 - [Basic Electronics Tutorials](http://www.electronics-tutorials.ws/) for images
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) for definitions
 - [Vintage Radio](http://www.vintage-radio.com/)
 - [Electronics stackexchange](https://electronics.stackexchange.com)
 
-## Recommended reads:
+## Recommended reads :closed_book: :green_book: :blue_book:
 - The Beginner's Handbook Of Amateur Radio (4th edition)
 - The ARRL Handbook for Radio Amateurs
+
+## Contribute
+
+Found some mistakes or missing sections? We would love some :sparkling_heart: [pull requests](https://help.github.com/articles/using-pull-requests/) :sparkling_heart:
