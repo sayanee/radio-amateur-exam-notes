@@ -98,7 +98,7 @@
 
 *Often necessary to "convert" from balanced to unbalanced*
 
-- a `2:1' balun could be used to match a balanced aerial
+- a `2:1` balun could be used to match a balanced aerial
 - feed impedance of `100Ω`
 - coaxial feeder cable of `50Ω` impedance
 
