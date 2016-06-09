@@ -27,7 +27,7 @@
 
   ![](img/yagi.gif)
   
-- Yagi radiation patten
+- Yagi radiation pattern
 
   ![](img/yagi_rad_pat.gif)
 
@@ -98,7 +98,7 @@
 
 *Often necessary to "convert" from balanced to unbalanced*
 
-- a `2:1` balun could be used to match a balanced aerial
+- a `2:1' balun could be used to match a balanced aerial
 - feed impedance of `100Ω`
 - coaxial feeder cable of `50Ω` impedance
 
