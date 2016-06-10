@@ -76,6 +76,8 @@ End Fed Aerials
     - transmitter that is 'earthed' via this length will be at a very high impedance point
   - straight
   - stout
+  
+Warning: **NEVER** in any circumstances should the mains Earth be used as a RF ground. Not only will it not work effectively, it can be dangerous in the event of an earth fault.
 
 ### Field strength
 
