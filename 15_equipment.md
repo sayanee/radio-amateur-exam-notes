@@ -4,10 +4,10 @@
 
 *TODO: Add on more equipment and complete the table below*
 
-| Name | Cost | Description | Advantages | Uses |
-| --- | --- | --- | --- | --- |
-|  [Icom IC-718](http://icomamerica.com/en/products/amateur/hf/718/default.aspx) | | HF All Band Transceiver | | Voice
+| Name | Cost | Description | Features | Modes | Remarks
+| --- | --- | --- | --- | --- | --- |
+|  [Icom IC-718](http://icomamerica.com/en/products/amateur/hf/718/default.aspx) | | HF all band, all mode transceiver | DSP unit (may be an optional module) | Voice
 | [YAESU - FT-857D](http://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&encProdID=8CBB7C4BDBAF40129AD4253A4987523C) | | HF/VHF/UHF mobile transceiver | |  Voice
-| [Yaesu FT-1000MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=ECAF1535E4CB8ECA07D737C0E4BAF3F5&DivisionID=65&isArchived=1)  | | Amateur transceiver to provide Class-A operation for its power amplifier |
-| [Kenwood TS-670](http://www.universal-radio.com/catalog/hamhf/ts670.html)
-| [Yaesu FT-817ND](http://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=06014CD0AFA0702B25B12AB4DC9C0D27)
+| [Yaesu FT-1000MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=ECAF1535E4CB8ECA07D737C0E4BAF3F5&DivisionID=65&isArchived=1)  | | HF all band, all mode transceiver | Advanced DSP Filtering to combat noise and interference | | Contest grade radio, Likely out of production
+| [Kenwood TS-670](http://www.universal-radio.com/catalog/hamhf/ts670.html) | | HF Quad Band, all mode transceiver (7, 21, 29 and 50 MHz bands) | | | Out of production
+| [Yaesu FT-817ND](http://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=06014CD0AFA0702B25B12AB4DC9C0D27) | | HF/VHF/UHF mobile transceiver | Portable and small, easy to carry in a bag. | | Low power (5 watts)
