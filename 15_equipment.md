@@ -2,6 +2,8 @@
 
 > Use this chapter to browse through some potential equipment to consider after passing your radio amateur exam.
 
+*TODO: Add on more equipment and complete the table below*
+
 | Name | Cost | Description | Advantages | Uses |
 | --- | --- | --- | --- | --- |
 |  [Icom IC-718](http://icomamerica.com/en/products/amateur/hf/718/default.aspx) | | HF All Band Transceiver | | Voice
