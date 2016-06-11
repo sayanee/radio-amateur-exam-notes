@@ -14,3 +14,14 @@
 | [Yaesu - FT-897D](http://yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=0372FA803B7BBADBF3076C94ACA7A8C5&DivisionID=65&isArchived=0) | | HF/VHF/UHF mobile transceiver | More ruggedized version of Yaesu FT-857D, has internal battery compartment for field use |  SSB (LSB & USB), AM, FSK, FM, CW
 | [Yaesu FT-1000MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=ECAF1535E4CB8ECA07D737C0E4BAF3F5&DivisionID=65&isArchived=1)  | | HF all band, all mode transceiver | Advanced DSP Filtering to combat noise and interference, 100 W of RF power | SSB (LSB & USB), AM, FSK, FM, CW | Contest grade radio, Likely out of production
 
+## Practical considerations for your station:
+
+- Antennas are a vital item in your station!
+  - Consider how you would want to install an antenna:
+    - How would you ground the antenna?
+    - How would you install the antenna without compromising safety? (Especially for antennas sticking out a building)
+    - Can a person unwittingly come into contact with the antenna while it is in use?
+  - Matching antennas:
+    - If you are using a reduced size antenna, consider a proper impedance matching method like an antenna tuner or RF transformer.
+       - This will help to ensure maximum power transfer from your radio to your antenna.
+    
