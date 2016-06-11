@@ -1,8 +1,6 @@
 # 15. Equipment
 
-> Use this chapter to browse through some potential equipment to consider after passing your radio amateur exam.
-
-*TODO: Add on more equipment and complete the table below*
+> Use this chapter to browse through some potential equipment to consider after passing your radio amateur exam. Note that the below-mentioned equipments are **approved for use with a Singapore license**. Please check the specifications for other licenses from other countries.
 
 | Name | Cost (USD) | Description | Features | Modes | Remarks
 | --- | --- | --- | --- | --- | --- |
