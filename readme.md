@@ -30,7 +30,7 @@
 - [13 - Band Planning](13_band_planning.md)
 - [14 - Transmitter Measurements](14_transmitter_measurements.md)
 
-Bonus chapter notes: [Practical equipments](15_equipment.md) :radio: :satellite: to consider after passing the exam.
+Bonus chapter notes: [Practical equipments](15_equipment.md) :radio: :satellite: :tv: to consider after passing the exam.
 
 ## Credits and other resources :sparkles:
 
