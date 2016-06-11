@@ -30,6 +30,8 @@
 - [13 - Band Planning](13_band_planning.md)
 - [14 - Transmitter Measurements](14_transmitter_measurements.md)
 
+Bonus chapter notes: [Practical equipments](15_equipments.md) to consider after passing the exam.
+
 ## Credits and other resources :sparkles:
 
 - [Basic Electronics Tutorials](http://www.electronics-tutorials.ws/) for images
