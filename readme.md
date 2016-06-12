@@ -41,6 +41,7 @@ Bonus chapter notes: [Practical equipments](15_equipment.md) :radio: :satellite:
 
 ## Recommended reads :closed_book: :green_book: :blue_book:
 - [The Beginner's Handbook Of Amateur Radio](http://www.amazon.com/Beginners-Handbook-Amateur-Radio/dp/0071361871), 4th edition -- By Clay Laster, W5ZPV
+- Basic Radio, Principles and technology -- By Ian Poole, G3YWX
 - The ARRL Handbook for Radio Amateurs
 
 ## Contribute
