@@ -141,6 +141,20 @@ keep it going (E.g. like a swing)
 
 *Application: Used in amplification of FM signals*
 
+### RF Mixers
+
+- Diagram of RF mixer:
+
+![](img/rf_mixer.png)
+
+- Unlike an audio mixer where signals are linearly added, a RF mixer multiplies signals together, which results in an output signal with a different frequency.
+- Generally, the outputs of a mixer are the **sum and differences** of the 2 input frequencies.
+   - The equations for determining the outputs are:
+   - (f1 + f2)
+   - (f1 - f2)
+- For example, if we have an input signal at 10 MHz, and an oscillator frequency of 5 MHz, then the outputs of the mixer would be 15 MHz and 5 MHz.
+- As such, a mixer can be useful for translating signals to higher or lower frequencies.
+
 ### Superhetrodyne Receiver
 
 - Crystal set
