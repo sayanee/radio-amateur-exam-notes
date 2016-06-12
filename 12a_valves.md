@@ -69,7 +69,7 @@
 ##### The solution:
 - Placing another grid in between the anode and cathode helps reduce the interelectrode capacitance (series capacitance)
   - This grid is called the screen grid.
-  - Usally tied to a high voltage in respect to the cathode.
+  - Usually tied to a high voltage in respect to the cathode.
     - This enhances the attraction of electrons from the cathode to the anode as well.
     - Leads to a higher gain.
   
