@@ -28,7 +28,7 @@
 - :alarm_clock: [12 - Meters](12_meters.md)
 - [12a - Valves](12a_valves.md)
 - [13 - Band Planning](13_band_planning.md)
-- [14 - Transmitter Measurements](14_transmitter_measurements.md)
+- :straight_ruler: [14 - Transmitter Measurements](14_transmitter_measurements.md)
 
 Bonus chapter notes: [Practical equipments](15_equipment.md) :radio: :satellite: :tv: to consider after passing the exam.
 
