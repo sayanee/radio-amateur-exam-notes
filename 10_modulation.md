@@ -55,6 +55,7 @@
 - More efficient as power is only given to one side band.
 - Less bandwidth needed on air.
 
+
 ### Over modulation
 
 - Avoid over modulation
@@ -63,6 +64,9 @@
 - If over-modulation does occur the carrier is chopped up and the modulation no longer resembles its modulating signal
 - Signal will have an increased bandwidth
 - Signal will be rich in unwanted harmonics
+- Waveform of overmodulated signal:
+
+ ![](img/overmodulation_wave.png)
 
 Prevent over-modulation:
 
