@@ -4,9 +4,16 @@
 
 ## Relevant groups :couple::two_women_holding_hands::two_men_holding_hands:
 
+In Singapore:
+
 - [IDA](https://www.ida.gov.sg/)
 - [SARTS](http://www.sarts.org.sg/)
 - [HAM Radio SG](https://www.facebook.com/groups/232268357146272/)
+
+Elsewhere:
+
+- [Radio Society of Great Britain](http://rsgb.org/)
+- TODO: Add on more
 
 ## Notes :page_facing_up: :bookmark_tabs: :page_with_curl:
 
