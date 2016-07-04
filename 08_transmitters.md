@@ -28,4 +28,9 @@
 
 ![](img/ssb_trans_block.png)
 
-- TODO: Write description
+- The **local oscillator** generates the 455 kHz Intermediate Frequency (IF) signal.
+- The **balanced modulator** mixes the 455 kHz signal with the audio signal to created a double side-band signal with a supressed carrier, at the IF frequency.
+- The **side-band filter** helps to filter one of the side-bands of the signal coming from the balanced modulator. The side-band that is removed would depend on which side band the user wishes to transmit on.
+- The **variable frequency oscillator** (VFO) is a frequency adjustable oscillator helps to generate the final RF frequency that the transmitter will transmit on.
+- The **mixer** takes the filtered signal coming from the side-band filter, and mixes it with the signal from the VFO. The output will be a SSB signal at the frequency set by the user. 
+

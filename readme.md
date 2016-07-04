@@ -4,9 +4,16 @@
 
 ## Relevant groups :couple::two_women_holding_hands::two_men_holding_hands:
 
+In Singapore:
+
 - [IDA](https://www.ida.gov.sg/)
 - [SARTS](http://www.sarts.org.sg/)
 - [HAM Radio SG](https://www.facebook.com/groups/232268357146272/)
+
+Elsewhere:
+
+- [Radio Society of Great Britain](http://rsgb.org/)
+- TODO: Add on more
 
 ## Notes :page_facing_up: :bookmark_tabs: :page_with_curl:
 
@@ -28,7 +35,7 @@
 - :alarm_clock: [12 - Meters](12_meters.md)
 - [12a - Valves](12a_valves.md)
 - [13 - Band Planning](13_band_planning.md)
-- [14 - Transmitter Measurements](14_transmitter_measurements.md)
+- :straight_ruler: [14 - Transmitter Measurements](14_transmitter_measurements.md)
 
 Bonus chapter notes: [Practical equipments](15_equipment.md) :radio: :satellite: :tv: to consider after passing the exam.
 
@@ -41,6 +48,7 @@ Bonus chapter notes: [Practical equipments](15_equipment.md) :radio: :satellite:
 
 ## Recommended reads :closed_book: :green_book: :blue_book:
 - [The Beginner's Handbook Of Amateur Radio](http://www.amazon.com/Beginners-Handbook-Amateur-Radio/dp/0071361871), 4th edition -- By Clay Laster, W5ZPV
+- Basic Radio, Principles and technology -- By Ian Poole, G3YWX
 - The ARRL Handbook for Radio Amateurs
 
 ## Contribute
