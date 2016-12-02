@@ -6,14 +6,14 @@
 
 In Singapore:
 
-- [IDA](https://www.ida.gov.sg/)
+- [IMDA](https://www.imda.gov.sg/)
 - [SARTS](http://www.sarts.org.sg/)
 - [HAM Radio SG](https://www.facebook.com/groups/232268357146272/)
 
 Elsewhere:
 
 - [Radio Society of Great Britain](http://rsgb.org/)
-- TODO: Add on more
+- [American Radio Relay League](http://arrl.org/)
 
 ## Notes :page_facing_up: :bookmark_tabs: :page_with_curl:
 
