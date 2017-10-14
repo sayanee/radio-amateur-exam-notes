@@ -155,7 +155,7 @@
 | V | Victor
 | W | Whisky
 | X | X-ray
-| Y | Yangkee
+| Y | Yankee
 | Z | Zulu
 
 
