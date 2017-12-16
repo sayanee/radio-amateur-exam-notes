@@ -315,7 +315,7 @@ More Examples:
 | 4 | Frequency Modulation | F2B | Teletype telegraphy by on-off keying of frequency-modulating audio frequency
 | 5 | Frequency Modulation | F3E | Telephony by frequency modulation
 | 6 | Frequency Modulation | G3E | Telephony by phase modulation
-|
+| |
 | 1 | Pulse Modulation | K1A | Telegraphy by on-off keying of a pulse carrier
 | 2 | Pulse Modulation | K2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on-off keying of a modulated pulse carrier <br> - the audio frequency or frequencies modulating the amplitude of the pulses.
 | 3 | Pulse Modulation | L2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on- off keying of a modulated pulsed carrier <br> - the audio frequency of frequencies modulating the width (or duration) of the pulses.
@@ -326,7 +326,7 @@ More Examples:
 
 | | | Type | Question | Answer
 | --- | --- | --- | --- | ---
-| 1 |QRG | frequency | Will you tell me my **exact frequency**? | Your exact frequency is ____kHz
+| 1 |QRG | frequency | Will you tell me my **exact frequency**? | Your exact frequency is ____ kHz
 | 2 |QRH | frequency | Does my **frequency vary**? | Your frequency varies
 | 3 |QRI | frequency | What is the **tone of my transmission**? | The tone of your transmission is (a) good, (b) variable, (c\) bad
 | x |QRJ | x | x
@@ -342,7 +342,7 @@ More Examples:
 | 14 | QRU | call | Are you **ready**? | I am ready
 | 16 | QRX | call | When will you call me **again**? | I will call you again at ___ hours on ___ kHz
 | 17 | QRZ | call | **Who** is calling me? | You are being called by ___ on ___ kHz
-|
+| |
 | 18 | QSA | signals | What is the **strength** of my signals? | The strength of your signals is (a) scarcely perceptible, (b) weak, (c\) fairly good, (d) good, (e) very good
 | 19 | QSB | signals | Are my signals **fading**? | Your signals are fading
 | 20 | QSD | signals | Are my signals mutilated? | Your signals are mutilated
@@ -351,6 +351,6 @@ More Examples:
 | 23 | QSP | communicate | Will you relay to ___ | I will relay to ___
 | 24 | QSV | communicate | Shall I send a series of V's for adjustment on this frequency? | Send a series of V's.
 | 25 | QSZ | communicate | Shall I send each word or group more than once? | Send each word or group twice
-|
+| |
 | 26 | QTH | location | What is your location? | My location is ___
 | 27 | QTR | time | What is the correct time? | The correct time is ___ hours.
