@@ -1,6 +1,6 @@
 # 0. License
 
-> Refer to [Amateur Handbook](https://www.ida.gov.sg/~/media/Files/PCDG/Licensees/Licensing/Framework%20and%20Guidelines/GuidelinesLicensingSch/AmateurHandbook.pdf) from [IDA](https://www.ida.gov.sg/)
+> Refer to [Amateur Handbook](http://www.imda.gov.sg/~/media/imda/files/regulation%20licensing%20and%20consultations/licensing/licenses/amateurhandbook.pdf) from [IMDA](https://www.imda.gov.sg/)
 
 ## Definitions
 
@@ -36,8 +36,8 @@
 ### Qualification required of the holder of Amateur Station License
 
 - **Amateur Station Licence** for operating radio transmission/reception equipment.
-- pass **Radio Amateur's Examination** or qualification that is acceptable to IDA
-- IDA may refuse without any reason
+- pass **Radio Amateur's Examination** or qualification that is acceptable to IMDA
+- IMDA may refuse without any reason
 - Apply online via **Telcom Licensing System**
 - Documents required: citizenship, results of the exam / valid cert, station license
 - do not purchase equipment until it is approved
@@ -48,19 +48,19 @@
 - license fee currently is $100
 - license fee must be **paid within 7 days of expiry** of the license
   - Late fees will be applicable afterwards.
-- IDA has waived the frequency application, processing fee and annual frequency usage fee
+- IMDA has waived the frequency application, processing fee and annual frequency usage fee
 
 ##### Important note:
 - Admittedly, as of now, the exam is very old.
-- Also, the current 2013 IDA Handbook still reflects that the license is renewable **annually** and fee is **$50**
+- Also, the current 2016 IMDA Handbook still reflects that the license is renewable **annually** and fee is **$50**
 - Please check the IDA Handbook for any updates pertaining to changes in syllabus or regulations.
-  - Advised to follow latest IDA Handbook in regards to this.
+  - Advised to follow latest IMDA Handbook in regards to this.
 
 ### Amateur Station License
 
 - be over `21`
 - above `16`, the parents / guardian must sign off and be responsible for observation
--  radio amateur equipment is a model that is approved by IDA
+-  radio amateur equipment is a model that is approved by IMDA
 
 ### Operation of an Amateur Ratio Station
 
@@ -68,7 +68,7 @@
 	- relevant provisions of the Telecommunications (Radio-communication) Regulations
 	- relevant provisions of the Radio Regulations of the ITC
 - amateur station license shall be displayed, in close proximity of the equipment, at the station's licensed address
-- transmitting frequency bands allowed of an amateur radio station shall be at the discretion of IDA
+- transmitting frequency bands allowed of an amateur radio station shall be at the discretion of IMDA
 - frequency within the limits prescribed by the Radio Regulations, annexed to ITC of the ITU
 
 ### Transmitting power
@@ -79,7 +79,7 @@
 
 ### Operational conditions for the Station
 
-- operated at locations approved by IDA
+- operated at locations approved by IMDA
 - operated in the presence of the licensee
 - licensee will be responsible for the proper operations of the station
 - tuning of the transmitter must ensure a **high degree of accuracy**
@@ -91,7 +91,7 @@
 - all equipment must be **erected, fixed, placed and used**
 - equipment should not interfere with the efficient and convenient working of other authorised stations
 - must seek **approval of any change** of equipment, antenna installation, location and address
-- the licensee must **identify the transmission of a call sign** assigned to him by IDA at the **beginning and end** of each period of transmission
+- the licensee must **identify the transmission of a call sign** assigned to him by IMDA at the **beginning and end** of each period of transmission
 
 ### Transmission, Procedure & Limitation
 
@@ -181,7 +181,7 @@
 - all entries shall be made at the time of sending and receiving
 - the record shall be **signed** at the time of recording by the licensee
 - log book shall be kept for **at least 2 years**
-- be available for examination at all reasonable times by an authorised officer of IDA
+- be available for examination at all reasonable times by an authorised officer of IMDA
 
 ### Interference
 
@@ -202,10 +202,10 @@
 - mobile / portable station and the general station **cannot be operated simultaneously**
 - the call-sign = general station followed by `/M` or `/P`
 - transmitter output power of the portable station shall not exceed `10 watts (erp)`
-- licence may be modified or revoked at any time by IDA without assigning any reason therefor
+- licence may be modified or revoked at any time by IMDA without assigning any reason therefor
 - it is readily movable from place to place to be operated therefrom
 - station fee of $50.00 per mobile/portable station is **waived**
-- station shall be closed down at any time on the demand of an authorised officer acting under the authority of IDA
+- station shall be closed down at any time on the demand of an authorised officer acting under the authority of IMDA
 
 ### Frequency checking equipment in amateur stations
 
