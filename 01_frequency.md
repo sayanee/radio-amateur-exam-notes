@@ -53,7 +53,7 @@ Other services using the radio spectrum: *Shipping, Aircraft, Military, Citizens
 | | Wavelength range | Frequency range  | Name | Amateur bands | Uses
 | --- | --- | --- | --- | --- | ---
 | 1 | `10 km` – `1 km`| `30 kHz` – `300 kHz`  | `LF` <br> (Low frequency)  | None | Low
-| 2 | `1 km` – `100 m`| `300` – `3 MHz`  | `MF` <br> (Medium frequency)  | `1.8 MHz` (`160m`) | Amateur Radio <br><br> AM Broadcasting <br> (not as common now)
+| 2 | `1 km` – `100 m`| `300 kHz` – `3 MHz`  | `MF` <br> (Medium frequency)  | `1.8 MHz` (`160m`) | Amateur Radio <br><br> AM Broadcasting <br> (not as common now)
 | 3 |` 100 m` – `10 m`| `3 MHz` - `30 MHz` | `HF` <br> (High frequency)  | `3.5 MHz` (`80m`) <br> `7 MHz` (`40m`) <br> `10 MHz` (`30m`) <br> `14 MHz` (`20m`) <br> `18 MHz` <br> `21 MHz` <br> `24 MHz` <br> `28 MHz` | Broadcast short wave bands <br> Amateur Radio
 | 4 | `10 m` - `1 m`| `30 MHz` - `300 MHz` | `VHF` <br> (Very high frequency)  | `144 MHz `  | Broadcast (FM, TV) <br> Amateur Radio
 | 5 |`1 m` - `100 mm` | `300 MHz` - `3 GHz` | `UHF` <br> (Ultra high frequency)  | `430 MHz`(`70cm`)| Amateur Radio <br> Microwave ovens <br> television, WiFi
