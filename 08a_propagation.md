@@ -57,13 +57,13 @@ Low frequencies are so good for world wide communication. Why are they not used 
   - height, thickness and density of the ionosphere
   - position and density of the ionosphere dictate which frequencies will be refracted and by how much
   - *Sun Spot activity* varies over the years - peaking and dipping (troughing) every 11 years
-
+  
 | ionosphere layer | Position | Description |
-| --- | --- | --- | ---
-| D | `60km` - `85km` | - Absorbs rather than refracts radio waves <br> - Absorption is inversely proportional to the frequency
-| E | `100km` - `120 km` | - Lowest ionised layer that can usefully be used for ionospheric propagation <br> - Refract (bend) radio waves during daylight hours, virtually disappears at night <br> - Does not normally result in vast distances of communication (100s of miles, not 1000s of miles)
-| F | `140km` - `400km` <br> <br> `150-200 kms` (`F1`) disappears at night| - Height varies from vary rare to non-existent <br> - Ionises very quickly at sunrise to reach a maximum just after midday <br> - decay is so slow that the ionised layer remains present all through the darkness hours <br> - `F2` layer is most important
-
+| --- | --- | --- | --- |
+| D | `60km` - `85km` | - Absorbs rather than refracts radio waves <br> - Absorption is inversely proportional to the frequency |
+| E | `100km` - `120 km` | - Lowest ionised layer that can usefully be used for ionospheric propagation <br> - Refract (bend) radio waves during daylight hours, virtually disappears at night <br> - Does not normally result in vast distances of communication (100s of miles, not 1000s of miles) |
+| F | `140km` - `400km` <br> <br> `150-200 kms` (`F1`) disappears at night| - Height varies from vary rare to non-existent <br> - Ionises very quickly at sunrise to reach a maximum just after midday <br> - decay is so slow that the ionised layer remains present all through the darkness hours <br> - `F2` layer is most important |
+  
 ### Sky waves
 
 - sky waves can be single or multi-hop
@@ -76,19 +76,19 @@ Low frequencies are so good for world wide communication. Why are they not used 
   - the time of day
   - season
   - frequency
-
+  
 | Frequency | Noon skip (km) | Midnight skip (km) |
 | --- | --- | --- | --- |
-| `1.9 MHz` | 0 | 0
-| `3.6 MHz` | 0 | 0
-| `7.1 MHz` | 0 | 500
-| `10.1 MHz` | 350 | 1000
-| `14.1 MHz` | 600 | 1600
-| `16.1 MHz` | 1200 | Not possible
-| `21.1 MHz` | 1300 | Not possible
-| `24.9 MHz` | 1600 | Not possible
-| `26.5 MHz` | 2000 | Not possible
-
+| `1.9 MHz` | 0 | 0 |
+| `3.6 MHz` | 0 | 0 |
+| `7.1 MHz` | 0 | 500 |
+| `10.1 MHz` | 350 | 1000 |
+| `14.1 MHz` | 600 | 1600 |
+| `16.1 MHz` | 1200 | Not possible |
+| `21.1 MHz` | 1300 | Not possible |
+| `24.9 MHz` | 1600 | Not possible |
+| `26.5 MHz` | 2000 | Not possible |
+  
 #### Fading
 
 - Both single and double hop sky waves are received but the path lengths are very different
