@@ -129,9 +129,9 @@
 For practical transistor biasing, the *base* should be
 
 - `0.3v` more negative than the *emitter*, for a PNP Germanium transistor
+- `0.3v` more positive than the *emitter*, for NPN Germanium transistor
 - `0.7v` more positive than the *emitter*, for NPN Silicon transistor
-- `0.3v` more positive than the *emitter*, for PNP Silicon transistor
-- `0.7v` more negative than the *emitter*, for NPN Germanium transistor
+- `0.7v` more negative than the *emitter*, for PNP Silicon transistor
 
 ### Thermal runway
 
