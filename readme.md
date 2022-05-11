@@ -22,7 +22,7 @@ Elsewhere:
 - 🔋 [02 - Basic electricity](02_basic_electricity.md)
 - 🔉 [03 - Electromagnetism](03_electromagnetism.md)
 - 💡 [04 - Alternating current](04_alternating_current.md)
-- 🔌 [05 - Power Supply Units](50_power_supply_units.md)
+- 🔌 [05 - Power Supply Units](05_power_supply_units.md)
 - [06 - Semiconductor physics](06_semiconductor_physics.md)
 - 📢 [07 - Amplifiers and Receivers](07_amplifiers_receivers.md)
 - 📡 [08 - Transmitters](08_transmitters.md)
